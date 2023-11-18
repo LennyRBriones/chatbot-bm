@@ -1,0 +1,6 @@
+.env
+*.csv
+*.jsonl
+chatbot/
+.vscode/
+dataset/
